@@ -189,3 +189,19 @@ header, .navbar{
 .card-body{
     text-align: center;
 }
+
+/*Trabalhe conosco*/
+
+#apply-area{
+    height: 500px;
+}
+
+#apply-area .container-fluid, #apply-area .row{
+    height: 100%;
+}
+
+#apply-area .apply-box{
+    text-align: center;
+    padding: 70px 50px; 
+
+}
