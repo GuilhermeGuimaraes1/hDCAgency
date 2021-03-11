@@ -23,20 +23,20 @@ header, .navbar{
 }
 
 #nav-container{
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0; /*A padding-toppropriedade define o preenchimento superior (espaço) de um elemento.*/
+    padding-bottom: 0; /*A padding-bottom propriedade define o preenchimento inferior (espaço) de um elemento.*/
 }
 
 #logo{
-    width: 75px;
+    width: 75px; /*A width propriedade define a largura de um elemento.*/
 }
 
 .navbar-brand{
-    padding: 0;
+    padding: 0; /*O preenchimento de um elemento é o espaço entre seu conteúdo e sua borda.*/
     color: #fff;
 }
 
-.navbar-brand:hover{
+.navbar-brand:hover{  /*seletor é usado para selecionar elementos quando você passa o mouse sobre eles.*/
     color: #fff;
 }
 
